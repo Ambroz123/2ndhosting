@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkslategrey;
+    color: blanchedalmond;
+}
+
+
+main{
+        width: 400px;
+        padding: 10px;
+        background-color: rgb(17, 13, 13);
+        position: absolute;
+        left: calc(50% - 200px);
+        margin-top: 80px;
+        border-radius: 16px;
+        text-align:center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cycle{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border-radius: 50%;
+    left: calc(50% - 45px);
+    position: absolute;
+    top: 5px;
+}
+
+.WhatsApp{
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(16, 209, 16);
+    color: azure;
+    border-radius: 10px;
+}
+
+.facebook{
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(9, 12, 208);
+    color: azure;
+    border-radius: 10px;
+
+
+}
+
+.twitter{
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(61, 144, 170);
+    color: azure;
+    border-radius: 10px;
+}
+.Tick{
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(10, 62, 71);
+    color: azure;
+    border-radius: 10px; 
+
+
+}
+pix.jpg{position: relative;
+}
+
+.signin{
+    padding: 10px;
+    margin: 20px;
+    border: 25px;
+    border-radius: 30px;
+    background-color: rgb(183, 152, 75);
+}
+
+.picture{
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    left: calc(50% - 30px);
+    position: absolute;
+    top: 20px;
+}
+
+.wt{
+
+    margin: 30px;
+    border-radius: 20px; 
+    position: absolute; 
+    margin-top: -5px;
+    margin-left: 10px;
+}
+
+
+.fb{
+    margin: 30px;
+    border-radius: 20px; 
+    position: absolute; 
+    margin-top: -5px;
+    margin-left: 10px;
+}
+
+.fa-brands{
+    margin: 30px;
+    border-radius: 20px; 
+    position: absolute; 
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.tk{
+    margin: 30px;
+    border-radius: 20px; 
+    position: absolute; 
+    margin-top: -5px;
+    margin-left: 10px; 
+}
+
